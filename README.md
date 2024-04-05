@@ -16,7 +16,7 @@ Note: The dummy API will not actually perform the action on the server, but the 
 
 ### Tools and Libraries:
 
-Free to use design libraries like Bootstrap or Ant Design and any other tools you find necessary.
+Free to use design libraries like Bootstrap or Ant Design and any other tools found necessary.
 
 ## General Plan
 
