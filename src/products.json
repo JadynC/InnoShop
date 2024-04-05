@@ -1,0 +1,2762 @@
+[
+  {
+    "id": 1,
+    "title": "Pizza dough",
+    "description": "Product information for Pizza dough",
+    "price": 7.77,
+    "discountPercentage": 6.2,
+    "rating": 3,
+    "stock": 51,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/1c4997/fff&text=Pizza dough",
+    "images": [
+      "https://dummyimage.com/300x300/cd7d2b/fff&text=Pizza dough"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tomato sauce",
+    "description": "Product information for Tomato sauce",
+    "price": 9.4,
+    "discountPercentage": 1.6,
+    "rating": 1,
+    "stock": 62,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b51a49/fff&text=Tomato sauce",
+    "images": [
+      "https://dummyimage.com/300x300/d23360/fff&text=Tomato sauce"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Fresh mozzarella cheese",
+    "description": "Product information for Fresh mozzarella cheese",
+    "price": 6.68,
+    "discountPercentage": 5.3,
+    "rating": 3,
+    "stock": 11,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/4b6f9b/fff&text=Fresh mozzarella cheese",
+    "images": [
+      "https://dummyimage.com/300x300/2a5dfa/fff&text=Fresh mozzarella cheese"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Fresh basil leaves",
+    "description": "Product information for Fresh basil leaves",
+    "price": 8.07,
+    "discountPercentage": 0.5,
+    "rating": 2,
+    "stock": 5,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/f93f0a/fff&text=Fresh basil leaves",
+    "images": [
+      "https://dummyimage.com/300x300/14f751/fff&text=Fresh basil leaves"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Olive oil",
+    "description": "Product information for Olive oil",
+    "price": 9.96,
+    "discountPercentage": 1.7,
+    "rating": 2,
+    "stock": 9,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/f2e8a0/fff&text=Olive oil",
+    "images": [
+      "https://dummyimage.com/300x300/5b2229/fff&text=Olive oil"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Salt and pepper to taste",
+    "description": "Product information for Salt and pepper to taste",
+    "price": 3.94,
+    "discountPercentage": 3.2,
+    "rating": 1,
+    "stock": 84,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6c1522/fff&text=Salt and pepper to taste",
+    "images": [
+      "https://dummyimage.com/300x300/a4c7b9/fff&text=Salt and pepper to taste"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tofu, cubed",
+    "description": "Product information for Tofu, cubed",
+    "price": 9.26,
+    "discountPercentage": 1,
+    "rating": 5,
+    "stock": 31,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/194b45/fff&text=Tofu, cubed",
+    "images": [
+      "https://dummyimage.com/300x300/b1315d/fff&text=Tofu, cubed"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Broccoli florets",
+    "description": "Product information for Broccoli florets",
+    "price": 9.75,
+    "discountPercentage": 3.8,
+    "rating": 2,
+    "stock": 70,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/715fdc/fff&text=Broccoli florets",
+    "images": [
+      "https://dummyimage.com/300x300/9abb7a/fff&text=Broccoli florets"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Carrots, sliced",
+    "description": "Product information for Carrots, sliced",
+    "price": 5.51,
+    "discountPercentage": 5.6,
+    "rating": 5,
+    "stock": 25,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d4e1dd/fff&text=Carrots, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/2ad451/fff&text=Carrots, sliced"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Bell peppers, sliced",
+    "description": "Product information for Bell peppers, sliced",
+    "price": 3.77,
+    "discountPercentage": 8.3,
+    "rating": 1,
+    "stock": 44,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/308a55/fff&text=Bell peppers, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/e203f8/fff&text=Bell peppers, sliced"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Soy sauce",
+    "description": "Product information for Soy sauce",
+    "price": 1.68,
+    "discountPercentage": 1.4,
+    "rating": 1,
+    "stock": 26,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/92f0c8/fff&text=Soy sauce",
+    "images": [
+      "https://dummyimage.com/300x300/328d54/fff&text=Soy sauce"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ginger, minced",
+    "description": "Product information for Ginger, minced",
+    "price": 0.8,
+    "discountPercentage": 3.2,
+    "rating": 1,
+    "stock": 8,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/21ad44/fff&text=Ginger, minced",
+    "images": [
+      "https://dummyimage.com/300x300/cb4361/fff&text=Ginger, minced"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Garlic, minced",
+    "description": "Product information for Garlic, minced",
+    "price": 1.41,
+    "discountPercentage": 0.9,
+    "rating": 1,
+    "stock": 55,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/aae5ef/fff&text=Garlic, minced",
+    "images": [
+      "https://dummyimage.com/300x300/cbb71d/fff&text=Garlic, minced"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Sesame oil",
+    "description": "Product information for Sesame oil",
+    "price": 7.73,
+    "discountPercentage": 3.8,
+    "rating": 3,
+    "stock": 48,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/29c15/fff&text=Sesame oil",
+    "images": [
+      "https://dummyimage.com/300x300/875c09/fff&text=Sesame oil"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Cooked rice for serving",
+    "description": "Product information for Cooked rice for serving",
+    "price": 9.03,
+    "discountPercentage": 7.7,
+    "rating": 2,
+    "stock": 76,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6f4ead/fff&text=Cooked rice for serving",
+    "images": [
+      "https://dummyimage.com/300x300/eee30b/fff&text=Cooked rice for serving"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "All-purpose flour",
+    "description": "Product information for All-purpose flour",
+    "price": 3.99,
+    "discountPercentage": 3.7,
+    "rating": 1,
+    "stock": 43,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/9d006a/fff&text=All-purpose flour",
+    "images": [
+      "https://dummyimage.com/300x300/a67776/fff&text=All-purpose flour"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Butter, softened",
+    "description": "Product information for Butter, softened",
+    "price": 8.25,
+    "discountPercentage": 6.7,
+    "rating": 3,
+    "stock": 8,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d8a86d/fff&text=Butter, softened",
+    "images": [
+      "https://dummyimage.com/300x300/a4d990/fff&text=Butter, softened"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Brown sugar",
+    "description": "Product information for Brown sugar",
+    "price": 9.6,
+    "discountPercentage": 8.9,
+    "rating": 2,
+    "stock": 51,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/20f6a3/fff&text=Brown sugar",
+    "images": [
+      "https://dummyimage.com/300x300/a44cdd/fff&text=Brown sugar"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "White sugar",
+    "description": "Product information for White sugar",
+    "price": 3.4,
+    "discountPercentage": 8.5,
+    "rating": 5,
+    "stock": 74,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/23d204/fff&text=White sugar",
+    "images": [
+      "https://dummyimage.com/300x300/80ee1/fff&text=White sugar"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Eggs",
+    "description": "Product information for Eggs",
+    "price": 7.12,
+    "discountPercentage": 0.8,
+    "rating": 4,
+    "stock": 86,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b457e/fff&text=Eggs",
+    "images": [
+      "https://dummyimage.com/300x300/1c621f/fff&text=Eggs"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Vanilla extract",
+    "description": "Product information for Vanilla extract",
+    "price": 0.89,
+    "discountPercentage": 8.5,
+    "rating": 4,
+    "stock": 50,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e32/fff&text=Vanilla extract",
+    "images": [
+      "https://dummyimage.com/300x300/b72b3f/fff&text=Vanilla extract"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Baking soda",
+    "description": "Product information for Baking soda",
+    "price": 0.77,
+    "discountPercentage": 5.1,
+    "rating": 2,
+    "stock": 69,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/bb1e3e/fff&text=Baking soda",
+    "images": [
+      "https://dummyimage.com/300x300/79ea64/fff&text=Baking soda"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Salt",
+    "description": "Product information for Salt",
+    "price": 6.16,
+    "discountPercentage": 9.8,
+    "rating": 4,
+    "stock": 40,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/48831f/fff&text=Salt",
+    "images": [
+      "https://dummyimage.com/300x300/e75bfc/fff&text=Salt"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Chocolate chips",
+    "description": "Product information for Chocolate chips",
+    "price": 5.91,
+    "discountPercentage": 2.5,
+    "rating": 2,
+    "stock": 7,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/1cc51e/fff&text=Chocolate chips",
+    "images": [
+      "https://dummyimage.com/300x300/8ae59a/fff&text=Chocolate chips"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Fettuccine pasta",
+    "description": "Product information for Fettuccine pasta",
+    "price": 6.97,
+    "discountPercentage": 3.8,
+    "rating": 1,
+    "stock": 17,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b03312/fff&text=Fettuccine pasta",
+    "images": [
+      "https://dummyimage.com/300x300/d54eb7/fff&text=Fettuccine pasta"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Chicken breast, sliced",
+    "description": "Product information for Chicken breast, sliced",
+    "price": 8.47,
+    "discountPercentage": 3.8,
+    "rating": 4,
+    "stock": 24,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ab1f79/fff&text=Chicken breast, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/e04e3c/fff&text=Chicken breast, sliced"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Heavy cream",
+    "description": "Product information for Heavy cream",
+    "price": 6.94,
+    "discountPercentage": 0.1,
+    "rating": 1,
+    "stock": 44,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/c48600/fff&text=Heavy cream",
+    "images": [
+      "https://dummyimage.com/300x300/8fb713/fff&text=Heavy cream"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Parmesan cheese, grated",
+    "description": "Product information for Parmesan cheese, grated",
+    "price": 3.76,
+    "discountPercentage": 6.4,
+    "rating": 3,
+    "stock": 40,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3f4feb/fff&text=Parmesan cheese, grated",
+    "images": [
+      "https://dummyimage.com/300x300/9fdea8/fff&text=Parmesan cheese, grated"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Butter",
+    "description": "Product information for Butter",
+    "price": 3.54,
+    "discountPercentage": 2.1,
+    "rating": 1,
+    "stock": 8,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d29afb/fff&text=Butter",
+    "images": [
+      "https://dummyimage.com/300x300/1a181b/fff&text=Butter"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Fresh parsley for garnish",
+    "description": "Product information for Fresh parsley for garnish",
+    "price": 2.32,
+    "discountPercentage": 7.3,
+    "rating": 0,
+    "stock": 45,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/aa88d8/fff&text=Fresh parsley for garnish",
+    "images": [
+      "https://dummyimage.com/300x300/24f9b1/fff&text=Fresh parsley for garnish"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Chicken thighs",
+    "description": "Product information for Chicken thighs",
+    "price": 9.02,
+    "discountPercentage": 4.4,
+    "rating": 0,
+    "stock": 21,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/80d9ac/fff&text=Chicken thighs",
+    "images": [
+      "https://dummyimage.com/300x300/3a2322/fff&text=Chicken thighs"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Mango, diced",
+    "description": "Product information for Mango, diced",
+    "price": 7.81,
+    "discountPercentage": 0.4,
+    "rating": 1,
+    "stock": 15,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3e1d20/fff&text=Mango, diced",
+    "images": [
+      "https://dummyimage.com/300x300/352b68/fff&text=Mango, diced"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Red onion, finely chopped",
+    "description": "Product information for Red onion, finely chopped",
+    "price": 5.51,
+    "discountPercentage": 0.7,
+    "rating": 1,
+    "stock": 89,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/719ba7/fff&text=Red onion, finely chopped",
+    "images": [
+      "https://dummyimage.com/300x300/b150ad/fff&text=Red onion, finely chopped"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Cilantro, chopped",
+    "description": "Product information for Cilantro, chopped",
+    "price": 0.91,
+    "discountPercentage": 3.9,
+    "rating": 5,
+    "stock": 88,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/22664/fff&text=Cilantro, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/1ac679/fff&text=Cilantro, chopped"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Lime juice",
+    "description": "Product information for Lime juice",
+    "price": 8.56,
+    "discountPercentage": 9.2,
+    "rating": 5,
+    "stock": 28,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d8cbdf/fff&text=Lime juice",
+    "images": [
+      "https://dummyimage.com/300x300/6a6787/fff&text=Lime juice"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Jalapeño, minced",
+    "description": "Product information for Jalapeño, minced",
+    "price": 8.85,
+    "discountPercentage": 2.3,
+    "rating": 3,
+    "stock": 91,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/52c9f4/fff&text=Jalapeño, minced",
+    "images": [
+      "https://dummyimage.com/300x300/a5e4cf/fff&text=Jalapeño, minced"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Quinoa, cooked",
+    "description": "Product information for Quinoa, cooked",
+    "price": 4.33,
+    "discountPercentage": 0.7,
+    "rating": 5,
+    "stock": 84,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/23870/fff&text=Quinoa, cooked",
+    "images": [
+      "https://dummyimage.com/300x300/35b137/fff&text=Quinoa, cooked"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Avocado, diced",
+    "description": "Product information for Avocado, diced",
+    "price": 7.94,
+    "discountPercentage": 7,
+    "rating": 1,
+    "stock": 37,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/972a91/fff&text=Avocado, diced",
+    "images": [
+      "https://dummyimage.com/300x300/2aeb5f/fff&text=Avocado, diced"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Cherry tomatoes, halved",
+    "description": "Product information for Cherry tomatoes, halved",
+    "price": 6.36,
+    "discountPercentage": 6.6,
+    "rating": 2,
+    "stock": 1,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b31bb5/fff&text=Cherry tomatoes, halved",
+    "images": [
+      "https://dummyimage.com/300x300/fadc35/fff&text=Cherry tomatoes, halved"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Cucumber, diced",
+    "description": "Product information for Cucumber, diced",
+    "price": 2.35,
+    "discountPercentage": 0.1,
+    "rating": 3,
+    "stock": 11,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/514479/fff&text=Cucumber, diced",
+    "images": [
+      "https://dummyimage.com/300x300/c0a8f4/fff&text=Cucumber, diced"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Red bell pepper, diced",
+    "description": "Product information for Red bell pepper, diced",
+    "price": 4.2,
+    "discountPercentage": 3.5,
+    "rating": 3,
+    "stock": 74,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/5573be/fff&text=Red bell pepper, diced",
+    "images": [
+      "https://dummyimage.com/300x300/5cc61f/fff&text=Red bell pepper, diced"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Feta cheese, crumbled",
+    "description": "Product information for Feta cheese, crumbled",
+    "price": 5.56,
+    "discountPercentage": 6.8,
+    "rating": 3,
+    "stock": 82,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3c11b2/fff&text=Feta cheese, crumbled",
+    "images": [
+      "https://dummyimage.com/300x300/368a1d/fff&text=Feta cheese, crumbled"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Lemon vinaigrette dressing",
+    "description": "Product information for Lemon vinaigrette dressing",
+    "price": 0.32,
+    "discountPercentage": 0.5,
+    "rating": 5,
+    "stock": 37,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/96ab5e/fff&text=Lemon vinaigrette dressing",
+    "images": [
+      "https://dummyimage.com/300x300/4e602d/fff&text=Lemon vinaigrette dressing"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Baguette, sliced",
+    "description": "Product information for Baguette, sliced",
+    "price": 0.99,
+    "discountPercentage": 0.6,
+    "rating": 0,
+    "stock": 5,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/5a795c/fff&text=Baguette, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/2a8444/fff&text=Baguette, sliced"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Tomatoes, diced",
+    "description": "Product information for Tomatoes, diced",
+    "price": 9.65,
+    "discountPercentage": 0.4,
+    "rating": 2,
+    "stock": 80,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/8d8b61/fff&text=Tomatoes, diced",
+    "images": [
+      "https://dummyimage.com/300x300/6b54f7/fff&text=Tomatoes, diced"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Fresh basil, chopped",
+    "description": "Product information for Fresh basil, chopped",
+    "price": 4.98,
+    "discountPercentage": 4.1,
+    "rating": 5,
+    "stock": 27,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/9aa9db/fff&text=Fresh basil, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/36c3e7/fff&text=Fresh basil, chopped"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Garlic cloves, minced",
+    "description": "Product information for Garlic cloves, minced",
+    "price": 0.81,
+    "discountPercentage": 5.8,
+    "rating": 2,
+    "stock": 30,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/47bfb8/fff&text=Garlic cloves, minced",
+    "images": [
+      "https://dummyimage.com/300x300/2df32a/fff&text=Garlic cloves, minced"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Balsamic glaze",
+    "description": "Product information for Balsamic glaze",
+    "price": 9.06,
+    "discountPercentage": 9.6,
+    "rating": 1,
+    "stock": 68,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/eeccbf/fff&text=Balsamic glaze",
+    "images": [
+      "https://dummyimage.com/300x300/f9857c/fff&text=Balsamic glaze"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Beef sirloin, thinly sliced",
+    "description": "Product information for Beef sirloin, thinly sliced",
+    "price": 8.27,
+    "discountPercentage": 1.6,
+    "rating": 4,
+    "stock": 13,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/9975b6/fff&text=Beef sirloin, thinly sliced",
+    "images": [
+      "https://dummyimage.com/300x300/f5b77d/fff&text=Beef sirloin, thinly sliced"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Oyster sauce",
+    "description": "Product information for Oyster sauce",
+    "price": 3.11,
+    "discountPercentage": 5.3,
+    "rating": 2,
+    "stock": 30,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/285959/fff&text=Oyster sauce",
+    "images": [
+      "https://dummyimage.com/300x300/67a9cb/fff&text=Oyster sauce"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Cornstarch",
+    "description": "Product information for Cornstarch",
+    "price": 1.06,
+    "discountPercentage": 5.9,
+    "rating": 2,
+    "stock": 85,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/f4d615/fff&text=Cornstarch",
+    "images": [
+      "https://dummyimage.com/300x300/af804/fff&text=Cornstarch"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Cooked white rice for serving",
+    "description": "Product information for Cooked white rice for serving",
+    "price": 6.72,
+    "discountPercentage": 4.6,
+    "rating": 2,
+    "stock": 81,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6594f/fff&text=Cooked white rice for serving",
+    "images": [
+      "https://dummyimage.com/300x300/33118d/fff&text=Cooked white rice for serving"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Tomatoes, sliced",
+    "description": "Product information for Tomatoes, sliced",
+    "price": 9.35,
+    "discountPercentage": 6.9,
+    "rating": 2,
+    "stock": 60,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/c8ced5/fff&text=Tomatoes, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/36afb8/fff&text=Tomatoes, sliced"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Fresh mozzarella cheese, sliced",
+    "description": "Product information for Fresh mozzarella cheese, sliced",
+    "price": 8.37,
+    "discountPercentage": 4.6,
+    "rating": 0,
+    "stock": 51,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/41832d/fff&text=Fresh mozzarella cheese, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/762960/fff&text=Fresh mozzarella cheese, sliced"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Extra virgin olive oil",
+    "description": "Product information for Extra virgin olive oil",
+    "price": 7.71,
+    "discountPercentage": 6.8,
+    "rating": 0,
+    "stock": 58,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d03777/fff&text=Extra virgin olive oil",
+    "images": [
+      "https://dummyimage.com/300x300/c72850/fff&text=Extra virgin olive oil"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Linguine pasta",
+    "description": "Product information for Linguine pasta",
+    "price": 9.46,
+    "discountPercentage": 2.8,
+    "rating": 4,
+    "stock": 13,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/dc3813/fff&text=Linguine pasta",
+    "images": [
+      "https://dummyimage.com/300x300/d879dd/fff&text=Linguine pasta"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Shrimp, peeled and deveined",
+    "description": "Product information for Shrimp, peeled and deveined",
+    "price": 4.39,
+    "discountPercentage": 2.3,
+    "rating": 1,
+    "stock": 40,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ad0c2/fff&text=Shrimp, peeled and deveined",
+    "images": [
+      "https://dummyimage.com/300x300/a20f1e/fff&text=Shrimp, peeled and deveined"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "White wine",
+    "description": "Product information for White wine",
+    "price": 5.46,
+    "discountPercentage": 8.9,
+    "rating": 1,
+    "stock": 15,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/7f0173/fff&text=White wine",
+    "images": [
+      "https://dummyimage.com/300x300/5729eb/fff&text=White wine"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Lemon juice",
+    "description": "Product information for Lemon juice",
+    "price": 9.02,
+    "discountPercentage": 5.7,
+    "rating": 3,
+    "stock": 47,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/f13281/fff&text=Lemon juice",
+    "images": [
+      "https://dummyimage.com/300x300/b1e445/fff&text=Lemon juice"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Red pepper flakes",
+    "description": "Product information for Red pepper flakes",
+    "price": 2.42,
+    "discountPercentage": 1.5,
+    "rating": 1,
+    "stock": 96,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e991c1/fff&text=Red pepper flakes",
+    "images": [
+      "https://dummyimage.com/300x300/90127e/fff&text=Red pepper flakes"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Fresh parsley, chopped",
+    "description": "Product information for Fresh parsley, chopped",
+    "price": 1.42,
+    "discountPercentage": 5.1,
+    "rating": 4,
+    "stock": 89,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/902360/fff&text=Fresh parsley, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/40166a/fff&text=Fresh parsley, chopped"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Basmati rice",
+    "description": "Product information for Basmati rice",
+    "price": 9.62,
+    "discountPercentage": 0.1,
+    "rating": 2,
+    "stock": 78,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d8409c/fff&text=Basmati rice",
+    "images": [
+      "https://dummyimage.com/300x300/a7d446/fff&text=Basmati rice"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Chicken, cut into pieces",
+    "description": "Product information for Chicken, cut into pieces",
+    "price": 5.45,
+    "discountPercentage": 5.5,
+    "rating": 0,
+    "stock": 76,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e71169/fff&text=Chicken, cut into pieces",
+    "images": [
+      "https://dummyimage.com/300x300/b02f0c/fff&text=Chicken, cut into pieces"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Onions, thinly sliced",
+    "description": "Product information for Onions, thinly sliced",
+    "price": 8.39,
+    "discountPercentage": 2.5,
+    "rating": 3,
+    "stock": 94,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/7ba111/fff&text=Onions, thinly sliced",
+    "images": [
+      "https://dummyimage.com/300x300/280f41/fff&text=Onions, thinly sliced"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Tomatoes, chopped",
+    "description": "Product information for Tomatoes, chopped",
+    "price": 9.28,
+    "discountPercentage": 3.4,
+    "rating": 2,
+    "stock": 58,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/7abaf1/fff&text=Tomatoes, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/deb0b9/fff&text=Tomatoes, chopped"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Yogurt",
+    "description": "Product information for Yogurt",
+    "price": 0.3,
+    "discountPercentage": 7,
+    "rating": 4,
+    "stock": 32,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d4e937/fff&text=Yogurt",
+    "images": [
+      "https://dummyimage.com/300x300/54c227/fff&text=Yogurt"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Ginger-garlic paste",
+    "description": "Product information for Ginger-garlic paste",
+    "price": 7.77,
+    "discountPercentage": 0.9,
+    "rating": 2,
+    "stock": 11,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/928371/fff&text=Ginger-garlic paste",
+    "images": [
+      "https://dummyimage.com/300x300/328cf7/fff&text=Ginger-garlic paste"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Biryani masala",
+    "description": "Product information for Biryani masala",
+    "price": 9.56,
+    "discountPercentage": 6.7,
+    "rating": 4,
+    "stock": 45,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/759238/fff&text=Biryani masala",
+    "images": [
+      "https://dummyimage.com/300x300/d27328/fff&text=Biryani masala"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Green chilies, sliced",
+    "description": "Product information for Green chilies, sliced",
+    "price": 9.95,
+    "discountPercentage": 0.4,
+    "rating": 0,
+    "stock": 59,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/407ee3/fff&text=Green chilies, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/423620/fff&text=Green chilies, sliced"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Fresh coriander leaves",
+    "description": "Product information for Fresh coriander leaves",
+    "price": 7.5,
+    "discountPercentage": 8.2,
+    "rating": 2,
+    "stock": 41,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/2f18b2/fff&text=Fresh coriander leaves",
+    "images": [
+      "https://dummyimage.com/300x300/110402/fff&text=Fresh coriander leaves"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Mint leaves",
+    "description": "Product information for Mint leaves",
+    "price": 4.66,
+    "discountPercentage": 3.3,
+    "rating": 1,
+    "stock": 7,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/96d128/fff&text=Mint leaves",
+    "images": [
+      "https://dummyimage.com/300x300/b625a7/fff&text=Mint leaves"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Ghee",
+    "description": "Product information for Ghee",
+    "price": 9.77,
+    "discountPercentage": 9.5,
+    "rating": 4,
+    "stock": 40,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/32d3d3/fff&text=Ghee",
+    "images": [
+      "https://dummyimage.com/300x300/9fcf94/fff&text=Ghee"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Salt to taste",
+    "description": "Product information for Salt to taste",
+    "price": 5.53,
+    "discountPercentage": 2.2,
+    "rating": 0,
+    "stock": 75,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/372d6d/fff&text=Salt to taste",
+    "images": [
+      "https://dummyimage.com/300x300/a50090/fff&text=Salt to taste"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Ginger, julienned",
+    "description": "Product information for Ginger, julienned",
+    "price": 1.79,
+    "discountPercentage": 9.7,
+    "rating": 0,
+    "stock": 4,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/76af50/fff&text=Ginger, julienned",
+    "images": [
+      "https://dummyimage.com/300x300/fa464c/fff&text=Ginger, julienned"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Coriander powder",
+    "description": "Product information for Coriander powder",
+    "price": 6.36,
+    "discountPercentage": 1.9,
+    "rating": 2,
+    "stock": 35,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/45002b/fff&text=Coriander powder",
+    "images": [
+      "https://dummyimage.com/300x300/36fcd6/fff&text=Coriander powder"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Cumin powder",
+    "description": "Product information for Cumin powder",
+    "price": 4.12,
+    "discountPercentage": 1,
+    "rating": 3,
+    "stock": 17,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/25527/fff&text=Cumin powder",
+    "images": [
+      "https://dummyimage.com/300x300/f4b504/fff&text=Cumin powder"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Red chili powder",
+    "description": "Product information for Red chili powder",
+    "price": 2.87,
+    "discountPercentage": 1.6,
+    "rating": 1,
+    "stock": 39,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/9be36a/fff&text=Red chili powder",
+    "images": [
+      "https://dummyimage.com/300x300/76939/fff&text=Red chili powder"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Garam masala",
+    "description": "Product information for Garam masala",
+    "price": 0.95,
+    "discountPercentage": 8.4,
+    "rating": 2,
+    "stock": 91,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6402d9/fff&text=Garam masala",
+    "images": [
+      "https://dummyimage.com/300x300/d23b41/fff&text=Garam masala"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Cooking oil",
+    "description": "Product information for Cooking oil",
+    "price": 8.54,
+    "discountPercentage": 2.6,
+    "rating": 2,
+    "stock": 23,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/654adb/fff&text=Cooking oil",
+    "images": [
+      "https://dummyimage.com/300x300/46c0a9/fff&text=Cooking oil"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Ground beef",
+    "description": "Product information for Ground beef",
+    "price": 8.2,
+    "discountPercentage": 7.7,
+    "rating": 3,
+    "stock": 88,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/74696d/fff&text=Ground beef",
+    "images": [
+      "https://dummyimage.com/300x300/49839/fff&text=Ground beef"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Potatoes, peeled and diced",
+    "description": "Product information for Potatoes, peeled and diced",
+    "price": 2.52,
+    "discountPercentage": 5,
+    "rating": 1,
+    "stock": 36,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/97e1f3/fff&text=Potatoes, peeled and diced",
+    "images": [
+      "https://dummyimage.com/300x300/7873b0/fff&text=Potatoes, peeled and diced"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Onions, finely chopped",
+    "description": "Product information for Onions, finely chopped",
+    "price": 0.22,
+    "discountPercentage": 4.3,
+    "rating": 4,
+    "stock": 79,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ab0182/fff&text=Onions, finely chopped",
+    "images": [
+      "https://dummyimage.com/300x300/d33086/fff&text=Onions, finely chopped"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Turmeric powder",
+    "description": "Product information for Turmeric powder",
+    "price": 6.05,
+    "discountPercentage": 0.6,
+    "rating": 4,
+    "stock": 17,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/99aa2c/fff&text=Turmeric powder",
+    "images": [
+      "https://dummyimage.com/300x300/9c97b/fff&text=Turmeric powder"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Tomatoes, finely chopped",
+    "description": "Product information for Tomatoes, finely chopped",
+    "price": 4.39,
+    "discountPercentage": 9.8,
+    "rating": 1,
+    "stock": 93,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e4dd3f/fff&text=Tomatoes, finely chopped",
+    "images": [
+      "https://dummyimage.com/300x300/84098e/fff&text=Tomatoes, finely chopped"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Green chilies, chopped",
+    "description": "Product information for Green chilies, chopped",
+    "price": 4.4,
+    "discountPercentage": 5.8,
+    "rating": 4,
+    "stock": 87,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/4613ec/fff&text=Green chilies, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/7b6a5d/fff&text=Green chilies, chopped"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Coriander leaves, chopped",
+    "description": "Product information for Coriander leaves, chopped",
+    "price": 7.54,
+    "discountPercentage": 2.6,
+    "rating": 5,
+    "stock": 21,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/60c8e8/fff&text=Coriander leaves, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/fccdea/fff&text=Coriander leaves, chopped"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Pomegranate seeds",
+    "description": "Product information for Pomegranate seeds",
+    "price": 1.78,
+    "discountPercentage": 4.5,
+    "rating": 4,
+    "stock": 55,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ffbf00/fff&text=Pomegranate seeds",
+    "images": [
+      "https://dummyimage.com/300x300/4d5984/fff&text=Pomegranate seeds"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Egg",
+    "description": "Product information for Egg",
+    "price": 8.57,
+    "discountPercentage": 9.1,
+    "rating": 3,
+    "stock": 45,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/221a27/fff&text=Egg",
+    "images": [
+      "https://dummyimage.com/300x300/17a23c/fff&text=Egg"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Mustard greens, washed and chopped",
+    "description": "Product information for Mustard greens, washed and chopped",
+    "price": 6.69,
+    "discountPercentage": 7.7,
+    "rating": 3,
+    "stock": 19,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/370dad/fff&text=Mustard greens, washed and chopped",
+    "images": [
+      "https://dummyimage.com/300x300/d7a8be/fff&text=Mustard greens, washed and chopped"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Spinach, washed and chopped",
+    "description": "Product information for Spinach, washed and chopped",
+    "price": 5.01,
+    "discountPercentage": 5.5,
+    "rating": 5,
+    "stock": 87,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3719d6/fff&text=Spinach, washed and chopped",
+    "images": [
+      "https://dummyimage.com/300x300/67a2a4/fff&text=Spinach, washed and chopped"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Cornmeal (makki ka atta)",
+    "description": "Product information for Cornmeal (makki ka atta)",
+    "price": 2.59,
+    "discountPercentage": 6.8,
+    "rating": 4,
+    "stock": 83,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/84f368/fff&text=Cornmeal (makki ka atta)",
+    "images": [
+      "https://dummyimage.com/300x300/be06bf/fff&text=Cornmeal (makki ka atta)"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Ginger, grated",
+    "description": "Product information for Ginger, grated",
+    "price": 7.95,
+    "discountPercentage": 3.8,
+    "rating": 5,
+    "stock": 83,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b87ce0/fff&text=Ginger, grated",
+    "images": [
+      "https://dummyimage.com/300x300/93a541/fff&text=Ginger, grated"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Ramen noodles",
+    "description": "Product information for Ramen noodles",
+    "price": 9.18,
+    "discountPercentage": 8.1,
+    "rating": 1,
+    "stock": 14,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d0d546/fff&text=Ramen noodles",
+    "images": [
+      "https://dummyimage.com/300x300/69455c/fff&text=Ramen noodles"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Chicken broth",
+    "description": "Product information for Chicken broth",
+    "price": 8.77,
+    "discountPercentage": 1.3,
+    "rating": 4,
+    "stock": 20,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/30fe37/fff&text=Chicken broth",
+    "images": [
+      "https://dummyimage.com/300x300/609104/fff&text=Chicken broth"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Mirin",
+    "description": "Product information for Mirin",
+    "price": 1.26,
+    "discountPercentage": 4,
+    "rating": 1,
+    "stock": 34,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/4c3cc4/fff&text=Mirin",
+    "images": [
+      "https://dummyimage.com/300x300/c8d92/fff&text=Mirin"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Shiitake mushrooms, sliced",
+    "description": "Product information for Shiitake mushrooms, sliced",
+    "price": 2.58,
+    "discountPercentage": 1.4,
+    "rating": 3,
+    "stock": 89,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d9a826/fff&text=Shiitake mushrooms, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/34c953/fff&text=Shiitake mushrooms, sliced"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Bok choy, chopped",
+    "description": "Product information for Bok choy, chopped",
+    "price": 8.77,
+    "discountPercentage": 1.2,
+    "rating": 3,
+    "stock": 86,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d582b4/fff&text=Bok choy, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/678dee/fff&text=Bok choy, chopped"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Green onions, sliced",
+    "description": "Product information for Green onions, sliced",
+    "price": 4.09,
+    "discountPercentage": 2.6,
+    "rating": 3,
+    "stock": 52,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/749c4a/fff&text=Green onions, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/f34327/fff&text=Green onions, sliced"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Soft-boiled eggs",
+    "description": "Product information for Soft-boiled eggs",
+    "price": 7.07,
+    "discountPercentage": 5,
+    "rating": 4,
+    "stock": 73,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/131bb6/fff&text=Soft-boiled eggs",
+    "images": [
+      "https://dummyimage.com/300x300/624eed/fff&text=Soft-boiled eggs"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Grilled chicken slices",
+    "description": "Product information for Grilled chicken slices",
+    "price": 5.87,
+    "discountPercentage": 9.8,
+    "rating": 5,
+    "stock": 99,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/a3b9f8/fff&text=Grilled chicken slices",
+    "images": [
+      "https://dummyimage.com/300x300/4a019d/fff&text=Grilled chicken slices"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Norwegian seaweed (nori)",
+    "description": "Product information for Norwegian seaweed (nori)",
+    "price": 9.07,
+    "discountPercentage": 5.1,
+    "rating": 1,
+    "stock": 1,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/bef659/fff&text=Norwegian seaweed (nori)",
+    "images": [
+      "https://dummyimage.com/300x300/972711/fff&text=Norwegian seaweed (nori)"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Chickpeas, cooked",
+    "description": "Product information for Chickpeas, cooked",
+    "price": 4.6,
+    "discountPercentage": 9.9,
+    "rating": 2,
+    "stock": 55,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/619d60/fff&text=Chickpeas, cooked",
+    "images": [
+      "https://dummyimage.com/300x300/782b62/fff&text=Chickpeas, cooked"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Carrots, diced",
+    "description": "Product information for Carrots, diced",
+    "price": 9.96,
+    "discountPercentage": 3.8,
+    "rating": 3,
+    "stock": 68,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/588dc0/fff&text=Carrots, diced",
+    "images": [
+      "https://dummyimage.com/300x300/d65fa5/fff&text=Carrots, diced"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Cumin",
+    "description": "Product information for Cumin",
+    "price": 0.34,
+    "discountPercentage": 5.3,
+    "rating": 3,
+    "stock": 13,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/18beff/fff&text=Cumin",
+    "images": [
+      "https://dummyimage.com/300x300/f3c70c/fff&text=Cumin"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Coriander",
+    "description": "Product information for Coriander",
+    "price": 5.79,
+    "discountPercentage": 9.4,
+    "rating": 4,
+    "stock": 59,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/9794a8/fff&text=Coriander",
+    "images": [
+      "https://dummyimage.com/300x300/546be0/fff&text=Coriander"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Cinnamon",
+    "description": "Product information for Cinnamon",
+    "price": 9.02,
+    "discountPercentage": 2.3,
+    "rating": 4,
+    "stock": 45,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/4b036c/fff&text=Cinnamon",
+    "images": [
+      "https://dummyimage.com/300x300/bf3f30/fff&text=Cinnamon"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Paprika",
+    "description": "Product information for Paprika",
+    "price": 1.65,
+    "discountPercentage": 2.5,
+    "rating": 5,
+    "stock": 3,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d578d7/fff&text=Paprika",
+    "images": [
+      "https://dummyimage.com/300x300/8b1fc3/fff&text=Paprika"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Vegetable broth",
+    "description": "Product information for Vegetable broth",
+    "price": 8.44,
+    "discountPercentage": 2.3,
+    "rating": 1,
+    "stock": 79,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b61dc1/fff&text=Vegetable broth",
+    "images": [
+      "https://dummyimage.com/300x300/eec104/fff&text=Vegetable broth"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Olives",
+    "description": "Product information for Olives",
+    "price": 2.49,
+    "discountPercentage": 2.3,
+    "rating": 5,
+    "stock": 83,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/790ee6/fff&text=Olives",
+    "images": [
+      "https://dummyimage.com/300x300/a6de57/fff&text=Olives"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Fresh cilantro, chopped",
+    "description": "Product information for Fresh cilantro, chopped",
+    "price": 8.05,
+    "discountPercentage": 8.5,
+    "rating": 3,
+    "stock": 25,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/da3ae9/fff&text=Fresh cilantro, chopped",
+    "images": [
+      "https://dummyimage.com/300x300/adae8b/fff&text=Fresh cilantro, chopped"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Cooked white rice",
+    "description": "Product information for Cooked white rice",
+    "price": 0.78,
+    "discountPercentage": 5.4,
+    "rating": 0,
+    "stock": 24,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/86467e/fff&text=Cooked white rice",
+    "images": [
+      "https://dummyimage.com/300x300/eee09/fff&text=Cooked white rice"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Beef bulgogi (marinated and grilled beef slices)",
+    "description": "Product information for Beef bulgogi (marinated and grilled beef slices)",
+    "price": 8.69,
+    "discountPercentage": 5.1,
+    "rating": 4,
+    "stock": 13,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b07233/fff&text=Beef bulgogi (marinated and grilled beef slices)",
+    "images": [
+      "https://dummyimage.com/300x300/168cf0/fff&text=Beef bulgogi (marinated and grilled beef slices)"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Carrots, julienned and sautéed",
+    "description": "Product information for Carrots, julienned and sautéed",
+    "price": 2.17,
+    "discountPercentage": 5.2,
+    "rating": 5,
+    "stock": 27,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3ff962/fff&text=Carrots, julienned and sautéed",
+    "images": [
+      "https://dummyimage.com/300x300/d72be4/fff&text=Carrots, julienned and sautéed"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Spinach, blanched and seasoned",
+    "description": "Product information for Spinach, blanched and seasoned",
+    "price": 9.64,
+    "discountPercentage": 3.6,
+    "rating": 1,
+    "stock": 65,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/bf3b1d/fff&text=Spinach, blanched and seasoned",
+    "images": [
+      "https://dummyimage.com/300x300/3c6c92/fff&text=Spinach, blanched and seasoned"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Zucchini, sliced and grilled",
+    "description": "Product information for Zucchini, sliced and grilled",
+    "price": 5.05,
+    "discountPercentage": 1.1,
+    "rating": 3,
+    "stock": 78,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/2019b4/fff&text=Zucchini, sliced and grilled",
+    "images": [
+      "https://dummyimage.com/300x300/a07c3b/fff&text=Zucchini, sliced and grilled"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Bean sprouts, blanched",
+    "description": "Product information for Bean sprouts, blanched",
+    "price": 4.18,
+    "discountPercentage": 3.5,
+    "rating": 1,
+    "stock": 45,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/2eaaf0/fff&text=Bean sprouts, blanched",
+    "images": [
+      "https://dummyimage.com/300x300/425069/fff&text=Bean sprouts, blanched"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Fried egg",
+    "description": "Product information for Fried egg",
+    "price": 1.15,
+    "discountPercentage": 2.9,
+    "rating": 2,
+    "stock": 81,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b618bb/fff&text=Fried egg",
+    "images": [
+      "https://dummyimage.com/300x300/a20a6a/fff&text=Fried egg"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Gochujang (Korean red pepper paste)",
+    "description": "Product information for Gochujang (Korean red pepper paste)",
+    "price": 7.22,
+    "discountPercentage": 1.6,
+    "rating": 1,
+    "stock": 67,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e0b231/fff&text=Gochujang (Korean red pepper paste)",
+    "images": [
+      "https://dummyimage.com/300x300/11b2f8/fff&text=Gochujang (Korean red pepper paste)"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Toasted sesame seeds",
+    "description": "Product information for Toasted sesame seeds",
+    "price": 3.8,
+    "discountPercentage": 4.2,
+    "rating": 2,
+    "stock": 6,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/a87664/fff&text=Toasted sesame seeds",
+    "images": [
+      "https://dummyimage.com/300x300/8d6849/fff&text=Toasted sesame seeds"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Eggplants, sliced",
+    "description": "Product information for Eggplants, sliced",
+    "price": 7.44,
+    "discountPercentage": 1,
+    "rating": 4,
+    "stock": 35,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/f15fd/fff&text=Eggplants, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/fd1638/fff&text=Eggplants, sliced"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Ground lamb or beef",
+    "description": "Product information for Ground lamb or beef",
+    "price": 3.27,
+    "discountPercentage": 0.8,
+    "rating": 1,
+    "stock": 62,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/eaeaa5/fff&text=Ground lamb or beef",
+    "images": [
+      "https://dummyimage.com/300x300/ccecf0/fff&text=Ground lamb or beef"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Tomatoes, crushed",
+    "description": "Product information for Tomatoes, crushed",
+    "price": 1.62,
+    "discountPercentage": 5.6,
+    "rating": 4,
+    "stock": 46,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/82f331/fff&text=Tomatoes, crushed",
+    "images": [
+      "https://dummyimage.com/300x300/f82f59/fff&text=Tomatoes, crushed"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Red wine",
+    "description": "Product information for Red wine",
+    "price": 5.48,
+    "discountPercentage": 9.5,
+    "rating": 2,
+    "stock": 80,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/7a9829/fff&text=Red wine",
+    "images": [
+      "https://dummyimage.com/300x300/d75d67/fff&text=Red wine"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Allspice",
+    "description": "Product information for Allspice",
+    "price": 0.49,
+    "discountPercentage": 1.8,
+    "rating": 2,
+    "stock": 38,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6caa80/fff&text=Allspice",
+    "images": [
+      "https://dummyimage.com/300x300/802fcc/fff&text=Allspice"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Nutmeg",
+    "description": "Product information for Nutmeg",
+    "price": 3.2,
+    "discountPercentage": 8.8,
+    "rating": 2,
+    "stock": 67,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/161edd/fff&text=Nutmeg",
+    "images": [
+      "https://dummyimage.com/300x300/5695db/fff&text=Nutmeg"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Milk",
+    "description": "Product information for Milk",
+    "price": 9.28,
+    "discountPercentage": 6.1,
+    "rating": 2,
+    "stock": 63,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/640986/fff&text=Milk",
+    "images": [
+      "https://dummyimage.com/300x300/94a38e/fff&text=Milk"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Flour",
+    "description": "Product information for Flour",
+    "price": 6.42,
+    "discountPercentage": 0.5,
+    "rating": 3,
+    "stock": 95,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/65d601/fff&text=Flour",
+    "images": [
+      "https://dummyimage.com/300x300/bab5ab/fff&text=Flour"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Parmesan cheese",
+    "description": "Product information for Parmesan cheese",
+    "price": 8.11,
+    "discountPercentage": 4.2,
+    "rating": 3,
+    "stock": 29,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/939274/fff&text=Parmesan cheese",
+    "images": [
+      "https://dummyimage.com/300x300/b59444/fff&text=Parmesan cheese"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Egg yolks",
+    "description": "Product information for Egg yolks",
+    "price": 5.96,
+    "discountPercentage": 4.3,
+    "rating": 2,
+    "stock": 22,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e93e2e/fff&text=Egg yolks",
+    "images": [
+      "https://dummyimage.com/300x300/c0c8cd/fff&text=Egg yolks"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Chicken thighs, boneless and skinless",
+    "description": "Product information for Chicken thighs, boneless and skinless",
+    "price": 5.27,
+    "discountPercentage": 10,
+    "rating": 0,
+    "stock": 90,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/f0fea9/fff&text=Chicken thighs, boneless and skinless",
+    "images": [
+      "https://dummyimage.com/300x300/3353bc/fff&text=Chicken thighs, boneless and skinless"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Kashmiri red chili powder",
+    "description": "Product information for Kashmiri red chili powder",
+    "price": 1.28,
+    "discountPercentage": 6.3,
+    "rating": 3,
+    "stock": 47,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3225b/fff&text=Kashmiri red chili powder",
+    "images": [
+      "https://dummyimage.com/300x300/40d63c/fff&text=Kashmiri red chili powder"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Tomato puree",
+    "description": "Product information for Tomato puree",
+    "price": 2.33,
+    "discountPercentage": 7.9,
+    "rating": 3,
+    "stock": 42,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/208c81/fff&text=Tomato puree",
+    "images": [
+      "https://dummyimage.com/300x300/6c6241/fff&text=Tomato puree"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Kasuri methi (dried fenugreek leaves)",
+    "description": "Product information for Kasuri methi (dried fenugreek leaves)",
+    "price": 3.64,
+    "discountPercentage": 1.8,
+    "rating": 0,
+    "stock": 10,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/b1b71c/fff&text=Kasuri methi (dried fenugreek leaves)",
+    "images": [
+      "https://dummyimage.com/300x300/8668a3/fff&text=Kasuri methi (dried fenugreek leaves)"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Sugar",
+    "description": "Product information for Sugar",
+    "price": 3.97,
+    "discountPercentage": 2.9,
+    "rating": 0,
+    "stock": 86,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/8fc81/fff&text=Sugar",
+    "images": [
+      "https://dummyimage.com/300x300/514820/fff&text=Sugar"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Green curry paste",
+    "description": "Product information for Green curry paste",
+    "price": 3.88,
+    "discountPercentage": 9.7,
+    "rating": 5,
+    "stock": 37,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/2dbfb8/fff&text=Green curry paste",
+    "images": [
+      "https://dummyimage.com/300x300/4260ac/fff&text=Green curry paste"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Coconut milk",
+    "description": "Product information for Coconut milk",
+    "price": 6.5,
+    "discountPercentage": 3.6,
+    "rating": 0,
+    "stock": 55,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3fd773/fff&text=Coconut milk",
+    "images": [
+      "https://dummyimage.com/300x300/ad3525/fff&text=Coconut milk"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Fish sauce",
+    "description": "Product information for Fish sauce",
+    "price": 9.58,
+    "discountPercentage": 0.2,
+    "rating": 3,
+    "stock": 28,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6a13ab/fff&text=Fish sauce",
+    "images": [
+      "https://dummyimage.com/300x300/2fc465/fff&text=Fish sauce"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Eggplant, sliced",
+    "description": "Product information for Eggplant, sliced",
+    "price": 9.67,
+    "discountPercentage": 1.7,
+    "rating": 3,
+    "stock": 96,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/c8acd4/fff&text=Eggplant, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/428038/fff&text=Eggplant, sliced"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Basil leaves",
+    "description": "Product information for Basil leaves",
+    "price": 1.9,
+    "discountPercentage": 2.4,
+    "rating": 3,
+    "stock": 37,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/5e4c22/fff&text=Basil leaves",
+    "images": [
+      "https://dummyimage.com/300x300/af4fde/fff&text=Basil leaves"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Jasmine rice for serving",
+    "description": "Product information for Jasmine rice for serving",
+    "price": 1.47,
+    "discountPercentage": 1.1,
+    "rating": 1,
+    "stock": 46,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6120f8/fff&text=Jasmine rice for serving",
+    "images": [
+      "https://dummyimage.com/300x300/924c06/fff&text=Jasmine rice for serving"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Ripe mango, peeled and diced",
+    "description": "Product information for Ripe mango, peeled and diced",
+    "price": 9.01,
+    "discountPercentage": 4.9,
+    "rating": 3,
+    "stock": 81,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/8d25d5/fff&text=Ripe mango, peeled and diced",
+    "images": [
+      "https://dummyimage.com/300x300/73177d/fff&text=Ripe mango, peeled and diced"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Honey",
+    "description": "Product information for Honey",
+    "price": 4.37,
+    "discountPercentage": 8.9,
+    "rating": 1,
+    "stock": 98,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/525f88/fff&text=Honey",
+    "images": [
+      "https://dummyimage.com/300x300/1bc727/fff&text=Honey"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Cardamom powder",
+    "description": "Product information for Cardamom powder",
+    "price": 3.67,
+    "discountPercentage": 4.2,
+    "rating": 1,
+    "stock": 72,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ecd510/fff&text=Cardamom powder",
+    "images": [
+      "https://dummyimage.com/300x300/73c70b/fff&text=Cardamom powder"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Ice cubes",
+    "description": "Product information for Ice cubes",
+    "price": 5.28,
+    "discountPercentage": 6.4,
+    "rating": 1,
+    "stock": 96,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/de8f09/fff&text=Ice cubes",
+    "images": [
+      "https://dummyimage.com/300x300/1b16f8/fff&text=Ice cubes"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Espresso, brewed and cooled",
+    "description": "Product information for Espresso, brewed and cooled",
+    "price": 0.58,
+    "discountPercentage": 4.2,
+    "rating": 0,
+    "stock": 74,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/a669d9/fff&text=Espresso, brewed and cooled",
+    "images": [
+      "https://dummyimage.com/300x300/86cae2/fff&text=Espresso, brewed and cooled"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Ladyfinger cookies",
+    "description": "Product information for Ladyfinger cookies",
+    "price": 4.79,
+    "discountPercentage": 2.9,
+    "rating": 0,
+    "stock": 95,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/575333/fff&text=Ladyfinger cookies",
+    "images": [
+      "https://dummyimage.com/300x300/db9a08/fff&text=Ladyfinger cookies"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Mascarpone cheese",
+    "description": "Product information for Mascarpone cheese",
+    "price": 8.43,
+    "discountPercentage": 3.3,
+    "rating": 4,
+    "stock": 95,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/321299/fff&text=Mascarpone cheese",
+    "images": [
+      "https://dummyimage.com/300x300/e1785f/fff&text=Mascarpone cheese"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Cocoa powder",
+    "description": "Product information for Cocoa powder",
+    "price": 1.99,
+    "discountPercentage": 9.3,
+    "rating": 4,
+    "stock": 41,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ba18f/fff&text=Cocoa powder",
+    "images": [
+      "https://dummyimage.com/300x300/e11f66/fff&text=Cocoa powder"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Onions, grated",
+    "description": "Product information for Onions, grated",
+    "price": 8.34,
+    "discountPercentage": 6.1,
+    "rating": 1,
+    "stock": 97,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/3f3d42/fff&text=Onions, grated",
+    "images": [
+      "https://dummyimage.com/300x300/ee401b/fff&text=Onions, grated"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Parsley, finely chopped",
+    "description": "Product information for Parsley, finely chopped",
+    "price": 2.2,
+    "discountPercentage": 9.8,
+    "rating": 1,
+    "stock": 4,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ef7751/fff&text=Parsley, finely chopped",
+    "images": [
+      "https://dummyimage.com/300x300/1e4e6d/fff&text=Parsley, finely chopped"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Flatbread for serving",
+    "description": "Product information for Flatbread for serving",
+    "price": 2.1,
+    "discountPercentage": 0.1,
+    "rating": 3,
+    "stock": 41,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d1d89f/fff&text=Flatbread for serving",
+    "images": [
+      "https://dummyimage.com/300x300/816f83/fff&text=Flatbread for serving"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Tahini sauce",
+    "description": "Product information for Tahini sauce",
+    "price": 9.06,
+    "discountPercentage": 4.6,
+    "rating": 0,
+    "stock": 40,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/7033bb/fff&text=Tahini sauce",
+    "images": [
+      "https://dummyimage.com/300x300/d4db12/fff&text=Tahini sauce"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Blueberries, fresh or frozen",
+    "description": "Product information for Blueberries, fresh or frozen",
+    "price": 1.64,
+    "discountPercentage": 5.6,
+    "rating": 1,
+    "stock": 84,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/45ced1/fff&text=Blueberries, fresh or frozen",
+    "images": [
+      "https://dummyimage.com/300x300/84970d/fff&text=Blueberries, fresh or frozen"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Banana, peeled and sliced",
+    "description": "Product information for Banana, peeled and sliced",
+    "price": 7.22,
+    "discountPercentage": 4.1,
+    "rating": 1,
+    "stock": 77,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/96adf0/fff&text=Banana, peeled and sliced",
+    "images": [
+      "https://dummyimage.com/300x300/cc5efa/fff&text=Banana, peeled and sliced"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Greek yogurt",
+    "description": "Product information for Greek yogurt",
+    "price": 1.65,
+    "discountPercentage": 2.4,
+    "rating": 2,
+    "stock": 42,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/8302ac/fff&text=Greek yogurt",
+    "images": [
+      "https://dummyimage.com/300x300/eed7b7/fff&text=Greek yogurt"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Almond milk",
+    "description": "Product information for Almond milk",
+    "price": 2.02,
+    "discountPercentage": 4.6,
+    "rating": 2,
+    "stock": 60,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/e9563f/fff&text=Almond milk",
+    "images": [
+      "https://dummyimage.com/300x300/e69732/fff&text=Almond milk"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Chia seeds (optional)",
+    "description": "Product information for Chia seeds (optional)",
+    "price": 2.26,
+    "discountPercentage": 7.2,
+    "rating": 5,
+    "stock": 81,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/72adda/fff&text=Chia seeds (optional)",
+    "images": [
+      "https://dummyimage.com/300x300/7d382f/fff&text=Chia seeds (optional)"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Corn on the cob",
+    "description": "Product information for Corn on the cob",
+    "price": 4.84,
+    "discountPercentage": 1.4,
+    "rating": 4,
+    "stock": 28,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6e4e91/fff&text=Corn on the cob",
+    "images": [
+      "https://dummyimage.com/300x300/352c19/fff&text=Corn on the cob"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Mayonnaise",
+    "description": "Product information for Mayonnaise",
+    "price": 0.04,
+    "discountPercentage": 9.7,
+    "rating": 0,
+    "stock": 1,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/2e06ce/fff&text=Mayonnaise",
+    "images": [
+      "https://dummyimage.com/300x300/b8c044/fff&text=Mayonnaise"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Cotija cheese, crumbled",
+    "description": "Product information for Cotija cheese, crumbled",
+    "price": 6.82,
+    "discountPercentage": 1.8,
+    "rating": 1,
+    "stock": 75,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/78c9cd/fff&text=Cotija cheese, crumbled",
+    "images": [
+      "https://dummyimage.com/300x300/ab8f27/fff&text=Cotija cheese, crumbled"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Chili powder",
+    "description": "Product information for Chili powder",
+    "price": 5.18,
+    "discountPercentage": 3.3,
+    "rating": 4,
+    "stock": 14,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/abd290/fff&text=Chili powder",
+    "images": [
+      "https://dummyimage.com/300x300/395ba5/fff&text=Chili powder"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Lime wedges",
+    "description": "Product information for Lime wedges",
+    "price": 8.16,
+    "discountPercentage": 9,
+    "rating": 3,
+    "stock": 32,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/adf34a/fff&text=Lime wedges",
+    "images": [
+      "https://dummyimage.com/300x300/942ee8/fff&text=Lime wedges"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Beets, peeled and shredded",
+    "description": "Product information for Beets, peeled and shredded",
+    "price": 0.4,
+    "discountPercentage": 3.5,
+    "rating": 3,
+    "stock": 92,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/420bcc/fff&text=Beets, peeled and shredded",
+    "images": [
+      "https://dummyimage.com/300x300/9cd343/fff&text=Beets, peeled and shredded"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Cabbage, shredded",
+    "description": "Product information for Cabbage, shredded",
+    "price": 0.4,
+    "discountPercentage": 0.8,
+    "rating": 3,
+    "stock": 36,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/c98859/fff&text=Cabbage, shredded",
+    "images": [
+      "https://dummyimage.com/300x300/3ec773/fff&text=Cabbage, shredded"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Potatoes, diced",
+    "description": "Product information for Potatoes, diced",
+    "price": 3.68,
+    "discountPercentage": 9.4,
+    "rating": 3,
+    "stock": 74,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/5fa35e/fff&text=Potatoes, diced",
+    "images": [
+      "https://dummyimage.com/300x300/102695/fff&text=Potatoes, diced"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Carrots, grated",
+    "description": "Product information for Carrots, grated",
+    "price": 5.04,
+    "discountPercentage": 1.5,
+    "rating": 3,
+    "stock": 24,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/ed2d33/fff&text=Carrots, grated",
+    "images": [
+      "https://dummyimage.com/300x300/65735f/fff&text=Carrots, grated"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Tomato paste",
+    "description": "Product information for Tomato paste",
+    "price": 8.28,
+    "discountPercentage": 9.9,
+    "rating": 3,
+    "stock": 60,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/2b18a6/fff&text=Tomato paste",
+    "images": [
+      "https://dummyimage.com/300x300/bc1531/fff&text=Tomato paste"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Beef or vegetable broth",
+    "description": "Product information for Beef or vegetable broth",
+    "price": 0.71,
+    "discountPercentage": 2.1,
+    "rating": 4,
+    "stock": 7,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/46b329/fff&text=Beef or vegetable broth",
+    "images": [
+      "https://dummyimage.com/300x300/553a83/fff&text=Beef or vegetable broth"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Bay leaves",
+    "description": "Product information for Bay leaves",
+    "price": 0.72,
+    "discountPercentage": 4,
+    "rating": 3,
+    "stock": 38,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/1b139f/fff&text=Bay leaves",
+    "images": [
+      "https://dummyimage.com/300x300/898975/fff&text=Bay leaves"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Sour cream for serving",
+    "description": "Product information for Sour cream for serving",
+    "price": 2.2,
+    "discountPercentage": 8.4,
+    "rating": 4,
+    "stock": 62,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/14fedf/fff&text=Sour cream for serving",
+    "images": [
+      "https://dummyimage.com/300x300/7c4a81/fff&text=Sour cream for serving"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Dosa batter (fermented rice and urad dal batter)",
+    "description": "Product information for Dosa batter (fermented rice and urad dal batter)",
+    "price": 5.83,
+    "discountPercentage": 9.8,
+    "rating": 2,
+    "stock": 93,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/67a738/fff&text=Dosa batter (fermented rice and urad dal batter)",
+    "images": [
+      "https://dummyimage.com/300x300/46747d/fff&text=Dosa batter (fermented rice and urad dal batter)"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Potatoes, boiled and mashed",
+    "description": "Product information for Potatoes, boiled and mashed",
+    "price": 0.06,
+    "discountPercentage": 8.4,
+    "rating": 4,
+    "stock": 19,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/c8353b/fff&text=Potatoes, boiled and mashed",
+    "images": [
+      "https://dummyimage.com/300x300/d590d5/fff&text=Potatoes, boiled and mashed"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Mustard seeds",
+    "description": "Product information for Mustard seeds",
+    "price": 6.33,
+    "discountPercentage": 8.2,
+    "rating": 5,
+    "stock": 30,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/8f6901/fff&text=Mustard seeds",
+    "images": [
+      "https://dummyimage.com/300x300/22daaf/fff&text=Mustard seeds"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Cumin seeds",
+    "description": "Product information for Cumin seeds",
+    "price": 8.31,
+    "discountPercentage": 7.1,
+    "rating": 4,
+    "stock": 99,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/336b98/fff&text=Cumin seeds",
+    "images": [
+      "https://dummyimage.com/300x300/90b754/fff&text=Cumin seeds"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Curry leaves",
+    "description": "Product information for Curry leaves",
+    "price": 0.1,
+    "discountPercentage": 0.2,
+    "rating": 4,
+    "stock": 21,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/1be1ab/fff&text=Curry leaves",
+    "images": [
+      "https://dummyimage.com/300x300/8ec6d0/fff&text=Curry leaves"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Coconut chutney for serving",
+    "description": "Product information for Coconut chutney for serving",
+    "price": 7.04,
+    "discountPercentage": 1.5,
+    "rating": 2,
+    "stock": 76,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/6459bd/fff&text=Coconut chutney for serving",
+    "images": [
+      "https://dummyimage.com/300x300/8541d1/fff&text=Coconut chutney for serving"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Falafel balls",
+    "description": "Product information for Falafel balls",
+    "price": 3.59,
+    "discountPercentage": 8.8,
+    "rating": 2,
+    "stock": 43,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/687f7a/fff&text=Falafel balls",
+    "images": [
+      "https://dummyimage.com/300x300/9d7e62/fff&text=Falafel balls"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Whole wheat or regular wraps",
+    "description": "Product information for Whole wheat or regular wraps",
+    "price": 5.4,
+    "discountPercentage": 9.4,
+    "rating": 5,
+    "stock": 95,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d14b14/fff&text=Whole wheat or regular wraps",
+    "images": [
+      "https://dummyimage.com/300x300/fea10c/fff&text=Whole wheat or regular wraps"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Cucumbers, sliced",
+    "description": "Product information for Cucumbers, sliced",
+    "price": 8.96,
+    "discountPercentage": 2.9,
+    "rating": 4,
+    "stock": 39,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/26f8b9/fff&text=Cucumbers, sliced",
+    "images": [
+      "https://dummyimage.com/300x300/d1bb52/fff&text=Cucumbers, sliced"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Red onions, thinly sliced",
+    "description": "Product information for Red onions, thinly sliced",
+    "price": 5.5,
+    "discountPercentage": 5.1,
+    "rating": 1,
+    "stock": 85,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/7a9bf9/fff&text=Red onions, thinly sliced",
+    "images": [
+      "https://dummyimage.com/300x300/a7af97/fff&text=Red onions, thinly sliced"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Lettuce, shredded",
+    "description": "Product information for Lettuce, shredded",
+    "price": 5.6,
+    "discountPercentage": 1.9,
+    "rating": 2,
+    "stock": 86,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/fb4b7d/fff&text=Lettuce, shredded",
+    "images": [
+      "https://dummyimage.com/300x300/af462e/fff&text=Lettuce, shredded"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Cachaça (Brazilian sugarcane spirit)",
+    "description": "Product information for Cachaça (Brazilian sugarcane spirit)",
+    "price": 5.02,
+    "discountPercentage": 7.2,
+    "rating": 2,
+    "stock": 66,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/664170/fff&text=Cachaça (Brazilian sugarcane spirit)",
+    "images": [
+      "https://dummyimage.com/300x300/778ce6/fff&text=Cachaça (Brazilian sugarcane spirit)"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Lime, cut into wedges",
+    "description": "Product information for Lime, cut into wedges",
+    "price": 7.12,
+    "discountPercentage": 3,
+    "rating": 0,
+    "stock": 24,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/c16f69/fff&text=Lime, cut into wedges",
+    "images": [
+      "https://dummyimage.com/300x300/489963/fff&text=Lime, cut into wedges"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Granulated sugar",
+    "description": "Product information for Granulated sugar",
+    "price": 5.54,
+    "discountPercentage": 2.5,
+    "rating": 3,
+    "stock": 12,
+    "brand": "Generic",
+    "category": "groceries",
+    "thumbnail": "https://dummyimage.com/300x300/d50ac4/fff&text=Granulated sugar",
+    "images": [
+      "https://dummyimage.com/300x300/cc25ed/fff&text=Granulated sugar"
+    ]
+  }
+]

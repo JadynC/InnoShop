@@ -1,0 +1,49 @@
+/* Assuming you have a CheckoutPage.css file for your checkout page styles */
+
+.checkout-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    background-color: #f9f9f9; /* A soft background color for the page */
+  }
+  
+  .checkout-banner {
+    max-width: 30%;
+    height: auto; /* Ensures the banner image is responsive */
+    margin-bottom: 2rem; /* Space after the banner */
+  }
+  
+  .checkout-title {
+    font-size: 2rem;
+    color: #0056b3; /* Brand blue for the title */
+    margin-bottom: 1rem;
+  }
+  
+  .checkout-container {
+    width: 100%;
+    max-width: 600px; /* Set a max-width for the container */
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    padding: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .return-home-button {
+    background-color: #0056b3; /* Brand blue */
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-decoration: none; /* If it's a link */
+    display: inline-block; /* To apply padding and border-radius */
+  }
+  
+  .return-home-button:hover {
+    background-color: #004c9d; /* A darker shade for hover effect */
+  }
+  

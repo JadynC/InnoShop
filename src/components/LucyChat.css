@@ -1,0 +1,159 @@
+.lucy-chat-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    position: fixed;
+    bottom: 100px; 
+    right: 50px;
+  }
+  
+  .conversation {
+    margin-bottom: 20px;
+    height: 300px; /* Adjust the height as needed */
+    overflow-y: auto;
+  }
+  
+  .message {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .message.user {
+    background-color: #e9e9e9;
+    align-self: flex-end;
+  }
+  
+  .message.lucy {
+    background-color: #d9e9ff;
+    align-self: flex-start;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: calc(100% - 22px); /* Account for padding and border */
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #004c9d;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+  }
+  
+  .message-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .message-input input {
+    flex-grow: 1;
+    margin-right: 10px; /* Space between input and button */
+  }
+  
+
+  .recipe-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .recipe-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .recipe-name {
+    font-weight: bold;
+  }
+
+  .modal {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .recipe-message {
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-message img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .recipe-message p {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .chat-bubble {
+    position: fixed;
+    color: #0056b3;
+    bottom: 5px;
+    right: 10px;
+    cursor: pointer;
+    z-index: 1000;
+    font-size: 80px;
+  }
+  
+  
+  .collapsed {
+    max-height: 50px;
+    overflow: hidden;
+  }
+  

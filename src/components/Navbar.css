@@ -1,0 +1,55 @@
+/* General styling */
+body {
+  font-family: 'Arial', sans-serif; /* Arial is a commonly available font that is close to many sans-serif logos */
+  color: #333; /* A dark gray for text that is readable on a light background */
+  background-color: #fff; /* White background */
+  padding-top: 90px; /* distance from bar to image */
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #ffffed; /* Blue color matching the image */
+  padding: 20px 0px;
+  position: fixed; /* Makes the navbar stay at the top */
+  top: 0; /* Aligns the navbar to the top */
+  left: 0; /* Aligns the navbar to the left */
+  width: 100%; /* Ensures the navbar stretches across the full width of the viewport */
+  z-index: 1000; /* Ensures the navbar will stay on top of other elements */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Optional: adds a shadow for better separation */
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  color: #0056b3;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.navbar-logo .icon {
+  margin-right: 10px;
+}
+
+.navbar-cart {
+  font-size: 35px;
+  color: #0056b3;
+  text-decoration: none;
+  position: relative;
+}
+
+.cart-bubble {
+  position: absolute;
+  top: -5px;
+  left: -10px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 5px;
+  font-size: 12px;
+}

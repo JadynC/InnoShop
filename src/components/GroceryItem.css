@@ -1,0 +1,80 @@
+.grocery-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* This will push the button to the bottom */
+    height: 520px; /* Fixed height for all cards */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    background-color: #fff;
+  }
+  
+  .grocery-item:hover {
+    background-color: rgba(0, 0, 0, 0.05); /* Faint gray background on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Slight shadow for depth */
+  }
+  
+  .grocery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    object-fit: cover; /* This ensures the image covers the area properly */
+  }
+  
+  .grocery-item h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .grocery-item p {
+    font-size: 1em;
+  }
+  
+  .grocery-item h2, .grocery-item p {
+    color: #333; /* Dark text color */
+    text-decoration: none; /* No underline */
+  }
+  
+  .grocery-item h2:hover, .grocery-item p:hover {
+    text-decoration: none; /* No underline on hover */
+  }
+
+  .grocery-item {
+    color: #333; /* Dark text color */
+    text-decoration: none; /* No underline */
+  }
+  
+  .grocery-item:hover {
+    text-decoration: none; /* No underline on hover */
+  }
+
+  /* Footer area for the button to sit */
+  .grocery-item-footer {
+    margin-top: auto; /* Pushes the footer to the bottom */
+  }
+  
+  .button-modern {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background-color: #0056b3; /* Blue background */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .button-modern:hover {
+    background-color: #004c9d; /* Darker blue on hover */
+    transform: translateY(-2px); /* Slight lift */
+  }
+  
