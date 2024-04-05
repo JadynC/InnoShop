@@ -63,7 +63,7 @@ To make InnoShop unique, it will feature a virtual assistant called Lucy, powere
 
 ## Running the Project
 
-To run this project, simply execute the following command:
+To run this project, execute the following command:
 
 ```bash
 npm i && npm start
